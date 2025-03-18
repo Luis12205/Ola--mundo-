@@ -1,4 +1,4 @@
-<img src="imagens/mascot.png" align=right width="300">
+<img src="https://photos.google.com/photo/AF1QipNbqHn6SV9nUtQfAkyyMxAz0KG--WbcdZdId8R1" align=right width="300">
 
 # Ola, mundo 
  Primeiro Repositòrio Do Curso Git e Github 
