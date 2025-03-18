@@ -1,3 +1,5 @@
+<img src="imagens/mascot.png" align=right width="300">
+
 # Ola, mundo 
  Primeiro Repositòrio Do Curso Git e Github 
 
