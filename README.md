@@ -5,8 +5,6 @@
 
  Repositório Criado durante uma live!
 
-<h1><button>LIKE</button></h1> 
+<h1><button>Saiba mais sobre Rip zoro</button></h1> 
 
 essa linha eu adicionei pelo site que impressionante
-
-<img aling="right" src="imagens/Captura de tela 2025-03-18 144623.png" width="200">
